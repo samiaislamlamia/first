@@ -1,0 +1,17 @@
+@media all and (max-width: 1000px) {
+    .half-width {
+        width: 80%;
+        text-align: center;
+    }
+    .dream-area .half-width img{
+        display: none;
+    }
+    footer {
+        margin: 100px;
+        
+    }
+    .single-experience {
+        margin-bottom: 100px;
+        height: 100%;
+    }
+}
